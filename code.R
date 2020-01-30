@@ -1,6 +1,6 @@
 library(tidyverse)
 library(dslabs)
 
-data(murders)
+data("brexit_polls")
 
-head(murders)
+head(brexit_polls)
